@@ -9,3 +9,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.images {
+    max-width: 500px;
+    max-height: 350px;
+    overflow: hidden;
+    
+}
+.image{
+    object-fit: fill;
+}
+
+.card{
+    margin: 10px;
+}
+
+.card-body{
+    height: 370px;
+}
+
+.logo{
+    width: 130px;
+    height: 75px;
+}
